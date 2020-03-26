@@ -37,5 +37,5 @@ void Try(ll i){
 main(){
     init();
     Try(1);
-    if(NotExist) cout << "Just one, or more Queen, plese!";
+    if(NotExist) cout << "Just one, or more Queen, please!";
 }
